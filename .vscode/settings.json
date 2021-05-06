@@ -1,4 +1,5 @@
 {
+  "liveSassCompile.settings.showOutputWindow": false,
   "liveSassCompile.settings.formats": [
     {
       "format": "expanded",
